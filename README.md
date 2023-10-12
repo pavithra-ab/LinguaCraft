@@ -7,5 +7,5 @@ This repository contains a comprehensive toolkit for translating content from va
 - **Audio Translation**: Convert audio files into text and then translate the text into your desired language.
 - **Video Translation**: Extract and translate the spoken content from videos.
 - **PDF Translation**: Translate text within PDF documents.
-- **Website Translation**: Extract, translate, text on websites.
+- **Website Translation**: Extract, and translate text on websites.
 
